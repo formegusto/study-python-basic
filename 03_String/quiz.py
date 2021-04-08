@@ -1,4 +1,4 @@
-url = "http://naver.com"
+url = "http://daum.net"
 
 password = url.replace("http://", "")
 password = password[:password.index(".")]
